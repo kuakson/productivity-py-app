@@ -1,0 +1,5 @@
+clean
+blend
+git gud
+debug
+milk the cows

@@ -8,3 +8,6 @@ def write_chore_list(chore_list_arg, filepath="chore_list.txt"):
     with open(filepath, 'w') as file_local:
         file_local.writelines(chore_list_arg)
 
+
+if __name__ == "__main__":
+    print(get_chore_list())

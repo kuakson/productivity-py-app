@@ -1,6 +1,5 @@
-clean
-blend
+codeblend
 git gud
 debug
-milk the cows
-get shit done
+debug some moreget shit done
+implement more functions
